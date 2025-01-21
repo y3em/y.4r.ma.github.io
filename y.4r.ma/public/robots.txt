@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://y.4r.ma/sitemap.xml
